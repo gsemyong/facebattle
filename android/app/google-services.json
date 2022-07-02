@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142695772314",
+    "project_id": "facebattle-58d8c",
+    "storage_bucket": "facebattle-58d8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142695772314:android:77471516826773cc1e6f23",
+        "android_client_info": {
+          "package_name": "com.example.face_battle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142695772314-rl041p3i4otsn794ju2k0l73jgjuka83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8c5Ywk1tF3NFVLgNxv7ngOdVfqxLzSD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142695772314-rl041p3i4otsn794ju2k0l73jgjuka83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
